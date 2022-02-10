@@ -1,10 +1,8 @@
 <p align="center">&nbsp; </p>
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
-<p align="center"><b>Feel free to reach out on </b></p>
+<p align="center"><b>Feel free to reach out on <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"  href="https://linkedin.com/in/gainb"/></b></p>
 <p align="center">&nbsp; </p>
-![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)(https://linkedin.com/in/gainb)
-<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"  href="https://linkedin.com/in/gainb"/>
 
 ## Here are the technologies I've worked with so far
 ### Front-end Techs
