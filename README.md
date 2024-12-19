@@ -13,6 +13,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MaterialUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Back-end Techs
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
@@ -35,7 +36,3 @@
 ![jQuery](https://img.shields.io/badge/Jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-
-<a href="https://github.com/chanychi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gainb&show_icons=true&count_private=true&theme=dracula" />
-</a>
